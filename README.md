@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RutYolanda
-- 👀 I’m interested in business data-driven decisions
+- 👀 I’m interested in analyzing data to support business data-driven decisions
 - 🌱 I’m currently learning data scientist skill
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me @ruth.carfissa17@gmail.com
