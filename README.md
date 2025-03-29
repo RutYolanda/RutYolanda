@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RutYolanda
-- 👀 I’m interested in analyzing data to support business data-driven decisions
+- 👀 I’m interested in analyzing data to support data-driven decisions
 - 🌱 I’m currently learning data scientist skill
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me @ruth.carfissa17@gmail.com
+- 📫 How to reach me @rutyolandakbl@gmail.com
 
 <!---
 RutYolanda/RutYolanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
